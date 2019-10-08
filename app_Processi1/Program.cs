@@ -40,6 +40,7 @@ namespace App_processi
                 if (p.ProcessName == "notepad")
                 {
                     p.Kill();
+
                 }
             }
 
